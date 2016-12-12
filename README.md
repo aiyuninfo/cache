@@ -1,6 +1,15 @@
+```XML
+<dependency>
+  <groupId>com.aiyun</groupId>
+  <artifactId>cache</artifactId>
+  <version>0.0.1</version>
+</dependency>
+```
+
 # cache
 缓存组件，无需配置文件，直接使用不依赖第三方框架。<br/>
 使用示例：<br/>
+
 
 ```Java  
 
