@@ -2,7 +2,7 @@
 <dependency>
   <groupId>com.aiyun</groupId>
   <artifactId>cache</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.7</version>
 </dependency>
 ```
 
